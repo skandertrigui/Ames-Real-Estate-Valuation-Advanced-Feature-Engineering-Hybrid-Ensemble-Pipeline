@@ -1,4 +1,5 @@
 # 🏆 Kaggle Ames Housing: Top Ranking via EDA, Hybrid Blending & Feature Engineering
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 [![Kaggle Rank](https://img.shields.io/badge/Kaggle_Rank-128th-blue?style=flat&logo=kaggle)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 [![Leaderboard Score](https://img.shields.io/badge/Public_LB-0.11842-brightgreen?style=flat&logo=kaggle)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
